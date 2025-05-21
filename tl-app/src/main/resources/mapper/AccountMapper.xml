@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.payso.trx.mapper.AccountMapper">
+
+	<select id="getAccountByCompanyId" resultType="com.payso.trx.entity.Account">
+		SELECT
+		id,
+		company_id,
+		balance,
+		status,
+		version
+		FROM
+		account
+		WHERE
+		company_id = #{companyId}
+	</select>
+
+
+</mapper>

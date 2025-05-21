@@ -1,0 +1,96 @@
+[31m2025-05-20 09:35:39[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - Starting TlApplication using Java 1.8.0_271 on sunjz with PID 4196 (D:\workspace\tl\tl-app\target\classes started by Administrator in D:\workspace\tl)
+[31m2025-05-20 09:35:39[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - The following 1 profile is active: "dev"
+[31m2025-05-20 09:35:41[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat initialized with port(s): 8080 (http)
+[31m2025-05-20 09:35:41[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.coyote.http11.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[31m2025-05-20 09:35:41[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.catalina.core.StandardService[0;39m - Starting service [Tomcat]
+[31m2025-05-20 09:35:41[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.catalina.core.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/9.0.83]
+[31m2025-05-20 09:35:42[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - Initializing Spring embedded WebApplicationContext
+[31m2025-05-20 09:35:42[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 2191 ms
+[31m2025-05-20 09:35:42[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.coyote.http11.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[31m2025-05-20 09:35:42[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat started on port(s): 8080 (http) with context path ''
+[31m2025-05-20 09:35:42[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - Started TlApplication in 4.273 seconds (JVM running for 6.782)
+[31m2025-05-20 09:35:42[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - ----------------------服务启动成功--------------------
+[31m2025-05-20 17:15:49[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - Starting TlApplication using Java 1.8.0_271 on sunjz with PID 18664 (D:\workspace\tl\tl-app\target\classes started by Administrator in D:\workspace\tl)
+[31m2025-05-20 17:15:49[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - The following 1 profile is active: "dev"
+[31m2025-05-20 17:15:51[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat initialized with port(s): 8080 (http)
+[31m2025-05-20 17:15:51[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.coyote.http11.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[31m2025-05-20 17:15:51[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.catalina.core.StandardService[0;39m - Starting service [Tomcat]
+[31m2025-05-20 17:15:51[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.catalina.core.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/9.0.83]
+[31m2025-05-20 17:15:51[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - Initializing Spring embedded WebApplicationContext
+[31m2025-05-20 17:15:51[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 1770 ms
+[31m2025-05-20 17:15:52[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.coyote.http11.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[31m2025-05-20 17:15:52[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat started on port(s): 8080 (http) with context path ''
+[31m2025-05-20 17:15:52[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - Started TlApplication in 3.719 seconds (JVM running for 5.215)
+[31m2025-05-20 17:15:52[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - ----------------------服务启动成功--------------------
+[31m2025-05-20 17:25:49[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - Starting TlApplication using Java 1.8.0_271 on sunjz with PID 4928 (D:\workspace\tl\tl-app\target\classes started by Administrator in D:\workspace\tl)
+[31m2025-05-20 17:25:49[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - The following 1 profile is active: "dev"
+[31m2025-05-20 17:25:50[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat initialized with port(s): 8080 (http)
+[31m2025-05-20 17:25:50[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.coyote.http11.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[31m2025-05-20 17:25:50[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.catalina.core.StandardService[0;39m - Starting service [Tomcat]
+[31m2025-05-20 17:25:50[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.catalina.core.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/9.0.83]
+[31m2025-05-20 17:25:50[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - Initializing Spring embedded WebApplicationContext
+[31m2025-05-20 17:25:50[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 1105 ms
+[31m2025-05-20 17:25:50[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.coyote.http11.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[31m2025-05-20 17:25:50[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat started on port(s): 8080 (http) with context path ''
+[31m2025-05-20 17:25:50[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - Started TlApplication in 2.204 seconds (JVM running for 3.267)
+[31m2025-05-20 17:25:50[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - ----------------------服务启动成功--------------------
+[31m2025-05-20 17:41:32[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - Starting TlApplication using Java 1.8.0_271 on sunjz with PID 21356 (D:\workspace\tl\tl-app\target\classes started by Administrator in D:\workspace\tl)
+[31m2025-05-20 17:41:32[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - The following 1 profile is active: "dev"
+[31m2025-05-20 17:41:33[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat initialized with port(s): 8080 (http)
+[31m2025-05-20 17:41:33[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.coyote.http11.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[31m2025-05-20 17:41:33[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.catalina.core.StandardService[0;39m - Starting service [Tomcat]
+[31m2025-05-20 17:41:33[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.catalina.core.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/9.0.83]
+[31m2025-05-20 17:41:33[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - Initializing Spring embedded WebApplicationContext
+[31m2025-05-20 17:41:33[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 988 ms
+[31m2025-05-20 17:41:33[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.coyote.http11.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[31m2025-05-20 17:41:33[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat started on port(s): 8080 (http) with context path ''
+[31m2025-05-20 17:41:33[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - Started TlApplication in 2.1 seconds (JVM running for 3.14)
+[31m2025-05-20 17:41:33[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - ----------------------服务启动成功--------------------
+[31m2025-05-20 17:44:09[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - Starting TlApplication using Java 1.8.0_271 on sunjz with PID 27428 (D:\workspace\tl\tl-app\target\classes started by Administrator in D:\workspace\tl)
+[31m2025-05-20 17:44:09[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - The following 1 profile is active: "dev"
+[31m2025-05-20 17:44:10[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat initialized with port(s): 8080 (http)
+[31m2025-05-20 17:44:10[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.coyote.http11.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[31m2025-05-20 17:44:10[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.catalina.core.StandardService[0;39m - Starting service [Tomcat]
+[31m2025-05-20 17:44:10[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.catalina.core.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/9.0.83]
+[31m2025-05-20 17:44:10[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - Initializing Spring embedded WebApplicationContext
+[31m2025-05-20 17:44:10[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 1202 ms
+[31m2025-05-20 17:44:11[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.coyote.http11.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[31m2025-05-20 17:44:11[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat started on port(s): 8080 (http) with context path ''
+[31m2025-05-20 17:44:11[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - Started TlApplication in 2.493 seconds (JVM running for 4.778)
+[31m2025-05-20 17:44:11[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - ----------------------服务启动成功--------------------
+[31m2025-05-20 17:47:19[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - Starting TlApplication using Java 1.8.0_271 on sunjz with PID 25888 (D:\workspace\tl\tl-app\target\classes started by Administrator in D:\workspace\tl)
+[31m2025-05-20 17:47:19[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - The following 1 profile is active: "dev"
+[31m2025-05-20 17:47:20[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat initialized with port(s): 8080 (http)
+[31m2025-05-20 17:47:20[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.coyote.http11.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[31m2025-05-20 17:47:20[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.catalina.core.StandardService[0;39m - Starting service [Tomcat]
+[31m2025-05-20 17:47:20[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.catalina.core.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/9.0.83]
+[31m2025-05-20 17:47:20[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - Initializing Spring embedded WebApplicationContext
+[31m2025-05-20 17:47:20[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 1015 ms
+[31m2025-05-20 17:47:20[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.coyote.http11.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[31m2025-05-20 17:47:20[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat started on port(s): 8080 (http) with context path ''
+[31m2025-05-20 17:47:20[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - Started TlApplication in 2.18 seconds (JVM running for 3.261)
+[31m2025-05-20 17:47:20[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - ----------------------服务启动成功--------------------
+[31m2025-05-20 17:49:09[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - Starting TlApplication using Java 1.8.0_271 on sunjz with PID 27132 (D:\workspace\tl\tl-app\target\classes started by Administrator in D:\workspace\tl)
+[31m2025-05-20 17:49:09[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - The following 1 profile is active: "dev"
+[31m2025-05-20 17:49:10[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat initialized with port(s): 8080 (http)
+[31m2025-05-20 17:49:10[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.coyote.http11.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[31m2025-05-20 17:49:10[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.catalina.core.StandardService[0;39m - Starting service [Tomcat]
+[31m2025-05-20 17:49:10[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.catalina.core.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/9.0.83]
+[31m2025-05-20 17:49:10[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - Initializing Spring embedded WebApplicationContext
+[31m2025-05-20 17:49:10[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 990 ms
+[31m2025-05-20 17:49:11[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.coyote.http11.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[31m2025-05-20 17:49:11[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat started on port(s): 8080 (http) with context path ''
+[31m2025-05-20 17:49:11[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - Started TlApplication in 2.326 seconds (JVM running for 3.31)
+[31m2025-05-20 17:49:11[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - ----------------------服务启动成功--------------------
+[31m2025-05-20 17:50:33[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - Starting TlApplication using Java 1.8.0_271 on sunjz with PID 23692 (D:\workspace\tl\tl-app\target\classes started by Administrator in D:\workspace\tl)
+[31m2025-05-20 17:50:33[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - The following 1 profile is active: "dev"
+[31m2025-05-20 17:50:34[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat initialized with port(s): 8080 (http)
+[31m2025-05-20 17:50:34[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.coyote.http11.Http11NioProtocol[0;39m - Initializing ProtocolHandler ["http-nio-8080"]
+[31m2025-05-20 17:50:34[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.catalina.core.StandardService[0;39m - Starting service [Tomcat]
+[31m2025-05-20 17:50:34[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.catalina.core.StandardEngine[0;39m - Starting Servlet engine: [Apache Tomcat/9.0.83]
+[31m2025-05-20 17:50:34[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.c.c.C.[Tomcat].[localhost].[/][0;39m - Initializing Spring embedded WebApplicationContext
+[31m2025-05-20 17:50:34[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.s.c.ServletWebServerApplicationContext[0;39m - Root WebApplicationContext: initialization completed in 1037 ms
+[31m2025-05-20 17:50:34[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.a.coyote.http11.Http11NioProtocol[0;39m - Starting ProtocolHandler ["http-nio-8080"]
+[31m2025-05-20 17:50:34[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mo.s.b.w.e.tomcat.TomcatWebServer[0;39m - Tomcat started on port(s): 8080 (http) with context path ''
+[31m2025-05-20 17:50:34[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - Started TlApplication in 2.14 seconds (JVM running for 3.487)
+[31m2025-05-20 17:50:34[0;39m [32m[main][0;39m [34mINFO [0;39m [1;35mcom.jhtx.tl.TlApplication[0;39m - ----------------------服务启动成功--------------------
