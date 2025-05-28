@@ -2,7 +2,7 @@
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.payso.trx.mapper.AccountMapper">
 
-	<select id="getAccountByCompanyId" resultType="com.payso.trx.entity.Account">
+	<select id="getAccountByCompanyId" resultType="com.jhtx.tl.infra.repository.entity.account">
 		SELECT
 		id,
 		company_id,
