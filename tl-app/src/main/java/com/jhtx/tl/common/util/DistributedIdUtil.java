@@ -8,7 +8,6 @@ import java.net.SocketException;
 import java.util.Enumeration;
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.concurrent.TimeUnit;
-import java.util.concurrent.atomic.AtomicLong;
 
 public class DistributedIdUtil {
     private final long workerId;

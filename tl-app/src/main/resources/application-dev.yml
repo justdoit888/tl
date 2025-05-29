@@ -12,7 +12,7 @@ spring:
       #最大连接数
       maximum-pool-size: 20
       #连接空闲超时时间（毫秒）
-      idle-timeout: 3000
+      idle-timeout: 30000
       #连接最大存活时间（毫秒）
       max-lifetime: 1800000
       #链接超时时间（毫秒）
@@ -21,9 +21,9 @@ spring:
       connection-test-query: SELECT 1
 mybatis:
   # mapper文件位置
-  mappper-locations: classpath:mapper/*.xml
+  mapper-locations: classpath:mapper/*.xml
   # 实体类包路径
-  type-aliases-package: com.example.model
+  type-aliases-package: com.jhtx.tl.infra.repository.entity
   configuration:
     # 开启驼峰命名转换
     map-underscore-to-camel-case: true

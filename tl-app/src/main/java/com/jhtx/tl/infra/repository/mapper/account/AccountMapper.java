@@ -6,6 +6,6 @@ import org.apache.ibatis.annotations.Param;
 
 public interface AccountMapper {
 
-    Account getAccountByCompanyId(@Param("companyId") Long companyId);
+    Account getAccountByCompanyId(@Param("companyId") String companyId);
 
 }

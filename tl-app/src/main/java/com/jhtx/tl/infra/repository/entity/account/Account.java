@@ -27,10 +27,10 @@ public class Account implements Serializable {
     private String accountType;
 
     /**账户余额*/
-    private Double balance;
+    private BigDecimal balance;
 
     /**冻结金额*/
-    private Double frozenAmount;
+    private BigDecimal frozenAmount;
 
     /**状态（正常opened，冻结frozen、停用closed）*/
     private String status;
